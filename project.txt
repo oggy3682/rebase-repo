@@ -1,1 +1,2 @@
 Initial project setup
+This is teammate's intro.
